@@ -1,0 +1,14 @@
+HTML Is a markup language , we use tags <> to mark content up
+
+
+<p><strong>  paragraph <strong></>                         {bold}
+<a> link to another page </a>
+<h1><em> headings <em>  </h1>                              {emphasise}
+<blockquote> Quotes </blockquote>
+<img>
+
+HTML Uses tags <> </> to present content
+there are many different tags
+tags can contain attributes <p class = "myclass">
+tags can be nested in other tags
+intendation of tags done to remove difficulty in readability
